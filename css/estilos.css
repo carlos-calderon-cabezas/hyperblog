@@ -55,6 +55,8 @@ body
 {
     background: #777;
     color: white;
+    font-size: large;
+    font-style: italic;
     text-align: center;
     padding: 0.5em;
 }
